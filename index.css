@@ -36,17 +36,22 @@ header {
     height: 25rem;
     border: 6px solid white;
     border-radius: .5rem;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .gift-img:hover {
     background-image: url("https://media3.giphy.com/media/YnBntKOgnUSBkV7bQH/giphy.gif?cid=ecf05e47g7vrnoizr56otxiyjzjz9biu9ul5f8sv5hbtt4lb&rid=giphy.gif&ct=g");
 }
 
+#present-2:hover {
+    background-image: url("https://media2.giphy.com/media/MuHJcSI9ySLsrNo59Q/giphy.gif?cid=ecf05e47bri71tdjlh4iu1hti9su5q2mdtt7o58fnuwqpofj&rid=giphy.gif&ct=g");
+    background-position: center;
+}
+
 .gift-title {
-    margin-bottom: 0;
+    margin-bottom: 1rem;
 }
 
 .gift-hint {
-    margin-top: .5rem;
+    margin-top: 0;
 }
