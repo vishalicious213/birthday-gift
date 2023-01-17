@@ -24,3 +24,21 @@ header {
     border-radius: .5rem;
     margin: 1rem 0 0;
 }
+
+.gift-section {
+    margin-top: 4rem;
+}
+
+.gift-section img {
+    width: 25rem;
+    border: 6px solid white;
+    border-radius: .5rem;
+}
+
+.gift-title {
+    margin-bottom: 0;
+}
+
+.gift-hint {
+    margin-top: .5rem;
+}
