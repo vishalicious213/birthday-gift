@@ -18,6 +18,9 @@ header {
     border: 6px solid #EFB0C9;
 }
 
-h2, h4 {
+#bday-age, #bday-date {
     background-color: #EFB0C9;
+    padding: .5rem 1rem;
+    border-radius: .5rem;
+    margin: 1rem 0 0;
 }
