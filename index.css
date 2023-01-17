@@ -38,6 +38,10 @@ header {
     border-radius: .5rem;
     margin: 0 auto;
 }
+
+#present-5 {
+    height: 12.5rem;
+}
 /* happy */
 .gift-img:hover {
     background-image: url("https://media3.giphy.com/media/YnBntKOgnUSBkV7bQH/giphy.gif?cid=ecf05e47g7vrnoizr56otxiyjzjz9biu9ul5f8sv5hbtt4lb&rid=giphy.gif&ct=g");
@@ -55,6 +59,11 @@ header {
 /* badass */
 #present-4:hover {
     background-image: url("https://media3.giphy.com/media/7qZ3ZX1Gu3TZm/giphy.gif?cid=ecf05e47xkhcn20n44dou4m5piz3by5be2twjlscuw5o8qk1&rid=giphy.gif&ct=g");
+    background-position: center;
+}
+/* toasting */
+#present-5:hover {
+    background-image: url("https://media3.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif?cid=ecf05e47zhqtxxasupm5bpzh755sn05lqmp6nco3ud0enh5t&rid=giphy.gif&ct=g");
     background-position: center;
 }
 
