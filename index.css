@@ -39,6 +39,10 @@ header {
     margin: auto;
 }
 
+.gift-img:hover {
+    background-image: url("https://media3.giphy.com/media/YnBntKOgnUSBkV7bQH/giphy.gif?cid=ecf05e47g7vrnoizr56otxiyjzjz9biu9ul5f8sv5hbtt4lb&rid=giphy.gif&ct=g");
+}
+
 .gift-title {
     margin-bottom: 0;
 }
