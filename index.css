@@ -6,8 +6,18 @@ body {
     text-shadow: 0 0 1px black;
 }
 
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 #headshot {
     border-radius: 50%;
     width: 10rem;
     border: 6px solid #EFB0C9;
+}
+
+h2, h4 {
+    background-color: #EFB0C9;
 }
