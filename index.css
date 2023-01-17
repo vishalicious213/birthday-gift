@@ -1,0 +1,9 @@
+body {
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+}
+
+#headshot {
+    border-radius: 50%;
+    width: 10rem;
+}
