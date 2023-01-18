@@ -95,7 +95,8 @@ footer {
 }
 
 footer p {
-    font-size: 1.1rem;
+    font-family: 'Orbitron', sans-serif;
+    font-size: .9rem;
     margin: 0 auto;
     width: 30rem;
     padding: 1rem;
