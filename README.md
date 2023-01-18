@@ -16,3 +16,5 @@ I also used semantic HTML elements instead of using \<div> elements for all of t
     - flex-direction: column
     - align-items
 - element:hover
+
+Deployed at: https://vish213-birthday.netlify.app/
